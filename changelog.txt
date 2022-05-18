@@ -1,1 +1,2 @@
 - PR 01 changes: run bitrise on new PR
+- PR 02 changes: add bors.toml
