@@ -1,0 +1,5 @@
+status = [
+  "Bitrise"
+]
+
+timeout_sec = 7200
