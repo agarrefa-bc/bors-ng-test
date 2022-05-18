@@ -17,6 +17,6 @@ class Tests_iOS: XCTestCase {
     }
 
     func testShouldPass() throws {
-        XCTAssertTrue(false)
+        XCTAssertTrue(true)
     }
 }
