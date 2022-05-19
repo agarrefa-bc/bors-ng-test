@@ -3,3 +3,4 @@
 - PR 03 changes: testing bors
 - PR 04: Paulo demo
 - PR 05: Paulo demo
+- PR 06: Paulo demo 3
