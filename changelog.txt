@@ -6,3 +6,4 @@
 - PR 04: More bors tests
 - PR 05: Paulo demo
 - PR 06: Paulo demo 2
+PR-7
