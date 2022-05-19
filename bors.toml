@@ -4,4 +4,3 @@ status = [
 
 timeout_sec = 7200
 use_squash_merge = true
-delete_merged_branches = true
