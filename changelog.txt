@@ -1,6 +1,8 @@
+# Add a line here and just create a new PR with it
+
 - PR 01 changes: run bitrise on new PR
 - PR 02 changes: add bors.toml
 - PR 03 changes: testing bors
-- PR 04: Paulo demo
+- PR 04: More bors tests
 - PR 05: Paulo demo
-- PR 06: Paulo demo 3
+- PR 06: Paulo demo 2
